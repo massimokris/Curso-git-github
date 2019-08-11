@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-﻿esta es la vida y obra maestra de massimo
-
-massimo tiene 23 años y nacio en venezuela, viviendo por todo el mundo
-
-aqui hablaremos de su historia
-
-mañana nos enfocaremos en su vida laboral
-=======
 Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
@@ -17,9 +8,8 @@ Experimento 1
 
 Experimento 2
 
-Master 1
+Master 1.1
 
 Master 2
 
 Mañana nos enfocaremos en su vida laboral
->>>>>>> f49c784ac62033c97e4fd24621051c3b044523cb
