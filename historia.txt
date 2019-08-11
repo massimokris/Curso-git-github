@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿esta es la vida y obra maestra de massimo
 
 massimo tiene 23 años y nacio en venezuela, viviendo por todo el mundo
@@ -5,3 +6,20 @@ massimo tiene 23 años y nacio en venezuela, viviendo por todo el mundo
 aqui hablaremos de su historia
 
 mañana nos enfocaremos en su vida laboral
+=======
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
+
+Experimento 1
+
+Experimento 2
+
+Master 1
+
+Master 2
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> f49c784ac62033c97e4fd24621051c3b044523cb
